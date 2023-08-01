@@ -1,2 +1,2 @@
-# ALPC-1-exerc
+# ALPC1-exerc
 Exercícios
