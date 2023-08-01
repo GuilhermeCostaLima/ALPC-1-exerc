@@ -1,2 +1,2 @@
 # ALPC1-exerc
-Exercícios feitos em python durante o 1° bimestre
+Alguns exercícios feitos em python durante o 1° bimestre
